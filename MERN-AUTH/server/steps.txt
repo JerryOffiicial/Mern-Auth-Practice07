@@ -1,0 +1,11 @@
+npm init
+npm i express cors dotenv nodemon jsonwebtoken mongoose bcryptjs nodemailer cookie-parse
+    express- create the app
+    corse- connect the backend with frontned
+    dotenv- helps to store the envolment variables in the bckend
+    nodemon- to restart whenever the file save
+    jsonwebtoken- token for authentication
+    mongoose- help us to connect with mongoDB
+    bcryptjs- encrypt the password
+    nodemailer- send the emails
+    cookie-parser- send the cookies in the api response
